@@ -1,4 +1,4 @@
-package com.example.muslibry5k;
+package com.example.tournamentcms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.example.muslibry5k;
+package com.example.tournamentcms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
